@@ -1,3 +1,5 @@
+## This package was forked from paypal's gatt repo to maintain and use the code
+
 # Package gatt provides a Bluetooth Low Energy GATT implementation.
 
 Gatt (Generic Attribute Profile) is the protocol used to write BLE peripherals (servers) and centrals (clients).
